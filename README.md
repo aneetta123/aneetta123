@@ -28,4 +28,4 @@ My goal is to strengthen my software development skills and build projects that 
 ## 🔗 Resume & Connect
 
 - [View My Resume](Aneetta_Resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/aneetta-abraham/)
+- [LinkedIn](https://www.linkedin.com/in/aneetta-abraham/) 
