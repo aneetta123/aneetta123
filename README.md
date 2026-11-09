@@ -25,6 +25,7 @@ I'm continuing to develop my skills in systems programming, networking, parallel
 
 My goal is to strengthen my software development skills and build projects that demonstrate my technical knowledge and problem-solving abilities.
 
-## 🔗 Connect With Me
+## 🔗 Resume & Connect
 
+- [View My Resume](Aneetta_Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/aneetta-abraham/)
